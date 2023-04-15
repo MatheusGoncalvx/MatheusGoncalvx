@@ -19,5 +19,5 @@
   
 ##
 
-![Snake animation](https://github.com/MatheusGoncalvx/MatheusGoncalvx/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheusgoncalvx/MatheusGoncalvx/blob/output/github-contribution-grid-snake.svg)
 
