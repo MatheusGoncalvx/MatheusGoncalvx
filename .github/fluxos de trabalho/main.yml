@@ -2,31 +2,27 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "*/12 * * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
-
-env: 
-  NODE_VERSION: '16.x'
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
       # Snake Animation
-      - name: Snake animation
-        uses: Platane/snk@v0.3.0
+      - name: Generate snake animation
+        uses: Platane/snk@v0.4.0
         with:
           github_user_name: MatheusGoncalvx
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v3.8.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4.1.2
         with:
           target_branch: main
           build_dir: dist
-          commit_message: Update contributions snake animation
+          publish_dir: dist
+          cname: github.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
