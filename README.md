@@ -17,6 +17,8 @@
 </div>
   
 ##
+<img src="https://raw.githubusercontent.com/MatheusGoncalvx/assets/" alt="gif a era do gelo" width="100">
+
 
 ![Snake animation](https://github.com/seu-usuário-aqui/MatheusGoncalvx/blob/output/github-contribution-grid-snake.svg)
 
