@@ -20,5 +20,4 @@
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusGoncalvx/MatheusGoncalvx/main/gif%20a%20era%20do%20gelo.gif" alt="gif a era do gelo" width="250">
-  <img src="https://github.com/rafaballerini2/MatheusGoncalvx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
