@@ -21,3 +21,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusGoncalvx/MatheusGoncalvx/main/gif%20a%20era%20do%20gelo.gif" alt="gif a era do gelo" width="250">
 </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusGoncalvx}/count.svg" /></p> 
+<br>
+</div>
