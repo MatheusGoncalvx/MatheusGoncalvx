@@ -1,6 +1,6 @@
 ### System.out.println("Hello World! I'm Matheus Gonçalves");
 
-⚡ Apenas um estudante de programação
+⚡ Técnico em Desenvolvimento de Sistemas. Atualmente estou no 1º semestre na graduação de Análise e Desenvolvimento de Sistemas. Sou aprendiz na área administrativa no Grupo Santa Joana, porém sou apaixonado por desenvolvimento web, análise de dados e pesquisa sobre tecnologias emergentes.
 
 <div>
   <a href="https://beacons.ai/MatheusGoncalvx">
